@@ -13,5 +13,5 @@ typedef struct TipoTesoro{
   int defensa;
   int ataque;
   int oro; 
-  int equipamiento;
+  int arma//se refiere a las espadas , lanzas y/o todo tipo de equipamiento incluyendo cascos o guanteletes//;
 } Tesoro;
