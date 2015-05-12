@@ -14,4 +14,5 @@ typedef struct TipoJugador{
   int ataque;
   int puntaje;
   int tesoro;
+  Tesoro *arma;
 }Jugador;
