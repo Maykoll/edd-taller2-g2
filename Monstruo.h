@@ -11,6 +11,6 @@
 typedef struct T_Monstruo{
   int vida;
   int ataque;
-  int tesoro; // Entender que se refiere a una combinacion de puntaje ,ademas de  ptos de vida, ataque, defensa y exp que nos entregara 
-  al ser derrotado el monstruo //
+  int tesoro; // Entender que se refiere a una combinacion de puntaje ,ademas de  ptos de vida, ataque, defensa 
+ // y exp que nos entregara al ser derrotado el monstruo entre otras cosas a sugerir //
 }Monstruo;
