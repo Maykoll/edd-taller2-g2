@@ -8,7 +8,7 @@
 #define STDLIB_H
 #endif
 
-typedef struct T_Monstruo{
+typedef struct TipoMonstruo{
   int vida;
   int ataque;
   int tesoro; // Entender que se refiere a una combinacion de puntaje ,ademas de  ptos de vida, ataque, defensa 
