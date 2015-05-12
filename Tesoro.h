@@ -10,7 +10,6 @@
 
 typedef struct TipoTesoro{
   int vida;
-  int escudo;
   int defensa;
   int ataque;
   int oro; 
